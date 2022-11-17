@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text2">By pressing buttons, Alarm can be created and cancelled.</string>
+    <string name="text3">Check Current time by looking below real digital clock.</string>
+    <string name="text4">Set Alarm Time:</string>
+</resources>
